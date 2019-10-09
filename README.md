@@ -1,5 +1,5 @@
 # iot-system-servlet-project-1
-Pinion Shaft Measuring Machine Monitor IoT SystemServer is used for storing data and use data for analysis for many purposes such as: monitoring, managing production.
+Pinion Shaft Measuring Machine Monitor IoT System is used for storing data and use data for analysis for many purposes such as: monitoring, managing production.
 ## User interface
 ![alt text](https://github.com/CDTruong/iot-system-servlet-project-1/blob/master/sample-img/user-interface.png)
 ## Measuring equipment monitoring
